@@ -1,7 +1,7 @@
 <h1 align="left">:wave: hello! I'm Vincent</h1>
 
 <h3 align="left">
-  :male-technologist: currently working at &nbsp;
+  :male-technologist: [Edit this format / template later and fill it in with my own information instead of sun's lol]currently working at &nbsp;
   <a href="https://matterport.com/" title="great company to work for" target="_blank" rel="noopener noreferrer">
     <img src="https://logosandtypes.com/wp-content/uploads/2022/04/matterport.svg" alt="Matterport" height="30" style="vertical-align: middle; margin-left: 6px;" />
   </a>
