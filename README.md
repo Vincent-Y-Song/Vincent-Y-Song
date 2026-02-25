@@ -1,4 +1,4 @@
-<h1 align="left">:wave: hello! i'm sun</h1>
+<h1 align="left">:wave: hello! I'm Vincent</h1>
 
 <h3 align="left">
   :male-technologist: currently working at &nbsp;
