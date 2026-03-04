@@ -1,4 +1,4 @@
-<h1 align="left">:wave: hello! I'm Vincent</h1>
+<h1 align="left">:wave: Hello! I'm Vincent</h1>
 
 <h3 align="left">
   :male-technologist: [Edit this format / template later and fill it in with my own information instead of sun's lol]currently working at &nbsp;
@@ -8,7 +8,7 @@
 </h3>
 
 <h3 align="left">
-  :handshake: let's be friends! &nbsp;
+  :handshake: let's be friends!:  &nbsp;
   <a href="https://www.linkedin.com/in/vincentysong/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Sun-Yen Tan" height="25" width="30" />
   </a>
@@ -56,16 +56,4 @@
 
 ---
 
-### :bar_chart: my super impressive gh stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sunyentan&show_icons=true&locale=en" alt="sunyentan's GitHub Stats" />
-</p>
-
----
-
-### :camera_with_flash: this is where i painted my profile pic @ amazon spheres!
-
-<p align="left">
-  <img src="dapic.png" alt="just wow" width="700" style="border-radius: 12px;">
-</p>
